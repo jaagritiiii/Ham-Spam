@@ -1,5 +1,11 @@
 
 # Ham-Spam Email Classifier
+![1](https://github.com/jaagritiiii/Ham-Spam/assets/79559304/d37867fd-49b3-437c-b079-ea75323bb8d7)
+
+
+![12](https://github.com/jaagritiiii/Ham-Spam/assets/79559304/981aa997-77a5-42c1-8ac8-7b1f18775e47)
+
+
 
 
 ## Table of Contents
