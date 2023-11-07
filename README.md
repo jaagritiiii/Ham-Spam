@@ -1,7 +1,6 @@
-# Ham-Spam
+
 # Ham-Spam Email Classifier
 
-![Ham-Spam](spam_mail.jpg)
 
 ## Table of Contents
 - [Introduction](##introduction)
